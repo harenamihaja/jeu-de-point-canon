@@ -1,0 +1,58 @@
+D:\ITU\S4_Rattra\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.exe
+D:\ITU\S4_Rattra\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.deps.json
+D:\ITU\S4_Rattra\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.runtimeconfig.json
+D:\ITU\S4_Rattra\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.dll
+D:\ITU\S4_Rattra\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.pdb
+D:\ITU\S4_Rattra\Jeu_de_point\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITU\S4_Rattra\Jeu_de_point\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITU\S4_Rattra\Jeu_de_point\bin\Debug\net9.0-windows\Npgsql.dll
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.csproj.AssemblyReference.cache
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.AssemblyInfoInputs.cache
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.AssemblyInfo.cs
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.csproj.CoreCompileInputs.cache
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_p.9C0EEB3A.Up2Date
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.dll
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\refint\Jeu_de_point.dll
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.pdb
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.genruntimeconfig.cache
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\ref\Jeu_de_point.dll
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.exe
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.deps.json
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.runtimeconfig.json
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.dll
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.pdb
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\bin\Debug\net9.0-windows\Npgsql.dll
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.csproj.AssemblyReference.cache
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.AssemblyInfoInputs.cache
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.AssemblyInfo.cs
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.csproj.CoreCompileInputs.cache
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_p.9C0EEB3A.Up2Date
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.dll
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\refint\Jeu_de_point.dll
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.pdb
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.genruntimeconfig.cache
+D:\MES DOCUMENTS\S6\ProgS4\Jeu_de_point\obj\Debug\net9.0-windows\ref\Jeu_de_point.dll
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.exe
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.deps.json
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.runtimeconfig.json
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.dll
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\bin\Debug\net9.0-windows\Jeu_de_point.pdb
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\bin\Debug\net9.0-windows\Npgsql.dll
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.csproj.AssemblyReference.cache
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.AssemblyInfoInputs.cache
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.AssemblyInfo.cs
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.csproj.CoreCompileInputs.cache
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.sourcelink.json
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_p.9C0EEB3A.Up2Date
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.dll
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\refint\Jeu_de_point.dll
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.pdb
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\Jeu_de_point.genruntimeconfig.cache
+E:\ITU\s6\rattrapage\le-prog\Jeu_de_point\obj\Debug\net9.0-windows\ref\Jeu_de_point.dll

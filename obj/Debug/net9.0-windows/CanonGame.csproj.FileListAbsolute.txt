@@ -1,0 +1,5 @@
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\CanonGame.csproj.AssemblyReference.cache
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\CanonGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\CanonGame.AssemblyInfoInputs.cache
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\CanonGame.AssemblyInfo.cs
+D:\ITU\S4_Rattra\Jeu_de_point\obj\Debug\net9.0-windows\CanonGame.csproj.CoreCompileInputs.cache
