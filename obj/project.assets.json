@@ -196,11 +196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITU\\s6\\rattrapage\\le-prog\\Jeu_de_point\\Jeu_de_point.csproj",
+      "projectUniqueName": "E:\\ITU\\s6\\projets\\jeu-de-point-canon\\Jeu_de_point.csproj",
       "projectName": "Jeu_de_point",
-      "projectPath": "E:\\ITU\\s6\\rattrapage\\le-prog\\Jeu_de_point\\Jeu_de_point.csproj",
+      "projectPath": "E:\\ITU\\s6\\projets\\jeu-de-point-canon\\Jeu_de_point.csproj",
       "packagesPath": "C:\\Users\\Harena\\.nuget\\packages\\",
-      "outputPath": "E:\\ITU\\s6\\rattrapage\\le-prog\\Jeu_de_point\\obj\\",
+      "outputPath": "E:\\ITU\\s6\\projets\\jeu-de-point-canon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Harena\\AppData\\Roaming\\NuGet\\NuGet.Config",
